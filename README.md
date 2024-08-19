@@ -18,7 +18,7 @@ This project implements a real-time tracking system using JavaScript. It allows 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/shalin0003/real-time-tracking.git
+   git clone https://github.com/Shalin0003/Real-Time-Tracking.git
    ```
 2. Navigate to the project directory:
     ```bash
